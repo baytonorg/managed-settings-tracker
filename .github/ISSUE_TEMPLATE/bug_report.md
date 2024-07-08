@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help improve MANAGED SETTINGS
-title: ''
+title: 'Issue: '
 labels: bug
 assignees: jasonbayton
 
